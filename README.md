@@ -16,3 +16,5 @@ Changed the h2 code to <footer> at the bottom of the page
 changed the subsections of <aside> to <section>
 
 Removed <class> from the header and changed it in css as well
+
+Corrected the link for one of the links in the <header> that was not working
