@@ -3,6 +3,8 @@
 Created a "title" for the page
 Changed the top of the page to header
 
+Changed the div tag on the header of the page to nav tag and changed it in css 
+
 Removed redundancies. There was both id and class for social media marketing, search engine optimization and online reputation management. Kept id and changed css accordingly
 
 orgnaized all the css codes for each section together
